@@ -64,15 +64,16 @@ intervals of the bootstrapped coefficient differences.
     web pages for all the competitions.
     - `data_mark_postprocessed.csv` contains the post-processed competition mark
     data. See the dissertation work mentioned above for information concerning
-    the postprocessing, or consult
+    the post-processing, or consult
     `postprocess_data.py` for details.
     - `event_data.csv` contains the information for competitions that fall under the
     scope of the study.
 + `fit_model.r` performs the data analysis in R.
-+ `output/` contains plotting outputs.
++ `output/` contains data analysis and visualization outputs.
 + `postprocess_data.py` is a Python script which processes the raw competition
 mark data scraped from the internet.
 + `README.md` is this document.
-+ `scrape_data.py` is a Python script which retrieves the data from the source.
-+ `scrape_params.json` contains parameters for the web scraping process.
++ `scrape_data.py` is a Python script which performs data collection for the study.
++ `scrape_params.json` contains parameters for the web scraping process used
+to collect the data.
 
