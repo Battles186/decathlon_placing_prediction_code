@@ -1,15 +1,15 @@
 # Decathlon International Championship Placing Prediction
 
-This is a project which aims to forecast international competition placing
-in the track and field decathlon based on event performances during said
-competition. It is part of the thesis work "Mathematical Characterization
+This is a project which aims to forecast international championship placing
+in the track and field decathlon using competition-day event performances.
+It is part of the thesis work "Mathematical Characterization
 of Elite Performance and Optimal Training in the Track & Field Decathlon"
 by Perry Battles.
 
 ## Replication
 
-This can be replicated in principle using any recent versions of R or
-Python. However, for best results, the following are recommended:
+To repeat the analysis performed herein, it is recommended to use the following
+software:
 
 + Python 3.14.5
     - beautifulsoup4     4.14.3
@@ -36,14 +36,15 @@ Python. However, for best results, the following are recommended:
     - typing_extensions  4.15.0
     - urllib3            2.7.0
 + R version 4.5.0
-    - ggplot2
-    - fitdistrplus
-    - DescTools
-    - car
-    - randomForest
+    - ggplot2 4.4.0
+    - fitdistrplus 1.2-4
+    - DescTools 0.99.60
+    - car 3.1-3
+    - randomForest 4.7-1.2
     - boot
 
-To replicate the analysis herein, perform the following steps:
+To attempt to replicate the analysis conducted in the thesis work,
+perform the following steps:
 
 1. First, feel free to remove the contents of the `output/` folder.
 2. Run `scrape_data.py` to scrape the competition data from the web.
