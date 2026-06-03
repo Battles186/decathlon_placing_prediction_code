@@ -1,0 +1,201 @@
+{
+	"wa_2001": {
+		"event_id": "6947294",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2001/8th-iaaf-world-championships-6947294/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2003": {
+		"url": "https://worldathletics.org/results/world-athletics-championships/2003/9th-iaaf-world-championships-in-athletics-6930156/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2005": {
+		"event_id": "6937596",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2005/10th-iaaf-world-championships-in-athletics-6937596/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2007": {
+		"event_id": "6903480",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2007/11th-iaaf-world-championships-in-athletics-6903480/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2009": {
+		"event_id": "6998524",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2009/12th-iaaf-world-championships-in-athletics-6998524/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2011": {
+		"event_id": "7003367",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2011/13th-iaaf-world-championships-in-athletics-7003367/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2013": {
+		"event_id": "7003368",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2013/14th-iaaf-world-championships-7003368/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2015": {
+		"event_id": "7078726",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2015/15th-iaaf-world-championships-7078726/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2017": {
+		"event_id": "7093740",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2017/iaaf-world-championships-london-2017-7093740/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2019": {
+		"event_id": "7125365",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2019/iaaf-world-athletics-championships-doha-2019-7125365/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2022": {
+		"event_id": "7137279",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2022/world-athletics-championships-oregon-2022-7137279/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2023": {
+		"event_id": "7138987",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2023/world-athletics-championships-budapest-2023-7138987/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"wa_2025": {
+		"event_id": "7190593",
+		"url": "https://worldathletics.org/results/world-athletics-championships/2025/world-athletics-championships-tokyo-2025-7190593/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2000": {
+		"event_id": "6951910",
+		"url": "https://worldathletics.org/results/olympic-games/2000/27th-olympic-games-6951910/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2004": {
+		"event_id": "6913163",
+		"url": "https://worldathletics.org/results/olympic-games/2004/28th-olympic-games-6913163/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2008": {
+		"event_id": "6977748",
+		"url": "https://worldathletics.org/results/olympic-games/2008/the-xxix-olympic-games-6977748/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2012": {
+		"event_id": "6999193",
+		"url": "https://worldathletics.org/results/olympic-games/2012/the-xxx-olympic-games-6999193/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2016": {
+		"event_id": "7093747",
+		"url": "https://worldathletics.org/results/olympic-games/2016/the-xxxi-olympic-games-7093747/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2021": {
+		"event_id": "7132391",
+		"url": "https://worldathletics.org/results/olympic-games/2021/the-xxxii-olympic-games-athletics-7132391/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	},
+	"og_2024": {
+		"event_id": "7153115",
+		"url": "https://worldathletics.org/results/olympic-games/2024/the-xxxiii-olympic-games-7153115/men/decathlon/1500-metres/points",
+		"data_value_idx": 2,
+		"columns": [
+			"pos", "athlete", "country", "points",
+			"data_type", "100", "lj", "sp", "hj",
+			"400", "110h", "dt", "pv", "jt", "1500"
+		]
+	}
+}
