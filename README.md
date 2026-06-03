@@ -8,7 +8,7 @@ by Perry Battles.
 
 ## Replication
 
-To repeat the analysis performed herein, it is recommended to use the following
+To repeat the analysis performed in the thesis, it is recommended to use the following
 software:
 
 + Python 3.14.5
@@ -47,31 +47,32 @@ To attempt to replicate the analysis conducted in the thesis work,
 perform the following steps:
 
 1. First, feel free to remove the contents of the `output/` folder.
-2. Run `scrape_data.py` to scrape the competition data from the web.
-3. Run `postprocess_data.py` to postprocess the data.
-4. Run `fit_model.r` to get modeling output.
+2. Run `python scrape_data.py` to scrape the competition data from the web.
+3. Run `python postprocess_data.py` to postprocess the scraped competition data.
+4. Run `Rscript fit_model.r` to get modeling output.
     - This will take a while to run.
-5. Run `CI_matrix_graph_maker.py` to generate the plotting output.
+5. Run `python CI_matrix_graph_maker.py` to generate the plotting output.
 
 Exact replication of the results is not guaranteed.
 
 ## File Inventory
 
 + `CI_matrix_graph_maker.py` is a Python script which visualizes the confidence
-intervals of the coefficient differences.
-+ `data/` contains all the data
-    - `data_mark.csv` are the competition marks obtained by scraping the
-    web pages for each of the competitions.
-    - `data_mark_postprocessed.csv` is the post-processed competition mark
-    data. See manuscript for information concerning the postprocessing, or
+intervals of the bootstrapped coefficient differences.
++ `data/` contains all the information used in the analysis.
+    - `data_mark.csv` holds the competition marks obtained by scraping the
+    web pages for all the competitions.
+    - `data_mark_postprocessed.csv` contains the post-processed competition mark
+    data. See the dissertation work mentioned above for information concerning
+    the postprocessing, or consult
     `postprocess_data.py` for details.
-    - `event_data.csv` contains the information for the events for which
-    data was obtained.
-+ `fit_model.r` fits the model to the data.
+    - `event_data.csv` contains the information for competitions that fall under the
+    scope of the study.
++ `fit_model.r` performs the data analysis in R.
 + `output/` contains plotting outputs.
 + `postprocess_data.py` is a Python script which processes the raw competition
 mark data scraped from the internet.
-+ `README.md` is this readme.
++ `README.md` is this document.
 + `scrape_data.py` is a Python script which retrieves the data from the source.
 + `scrape_params.json` contains parameters for the web scraping process.
 
