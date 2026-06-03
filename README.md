@@ -36,7 +36,7 @@ software:
     - typing_extensions  4.15.0
     - urllib3            2.7.0
 + R version 4.5.0
-    - ggplot2 4.4.0
+    - ggplot2 4.0.0
     - fitdistrplus 1.2-4
     - DescTools 0.99.60
     - car 3.1-3
